@@ -1,0 +1,40 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "web": "expo start --web",
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.14.5",
+    "axios": "^0.21.1",
+    "expo": "~41.0.1",
+    "expo-splash-screen": "~0.10.2",
+    "expo-status-bar": "~1.0.4",
+    "expo-updates": "~0.5.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "~0.63.4",
+    "react-native-elements": "^3.4.1",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-modal-dropdown": "github:siemiatj/react-native-modal-dropdown",
+    "react-native-paper-dropdown": "^1.0.2",
+    "react-native-picker-select": "^8.0.4",
+    "react-native-reanimated": "~2.1.0",
+    "react-native-safe-area": "^0.5.1",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-screen": "^1.0.1",
+    "react-native-screens": "^3.0.0",
+    "react-native-unimodules": "~0.13.3",
+    "react-native-vector-icons": "^8.1.0",
+    "react-native-web": "~0.13.12"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "react-native-select-list": "^1.0.5"
+  },
+  "private": true
+}

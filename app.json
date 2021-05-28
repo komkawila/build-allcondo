@@ -1,0 +1,12 @@
+{
+  "name": "Dawa Condo",
+  "displayName": "Dawa Condo",
+  "expo": {
+    "name": "Dawa Condo",
+    "slug": "Dawa Condo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
